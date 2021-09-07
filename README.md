@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oscar Serna</h1>
 <h3 align="center">A creative and recursive designer and full stack developer junior from Colombia, now living in Spain(Málaga)</h3>
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oscar-coderookie&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oscar-coderookie&label=Profile%20views&color=0e75b6&style=flat" alt="oscar-coderookie" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscar-coderookie" alt="oscar-coderookie" /></a> </p>

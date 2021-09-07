@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Oscar Serna</h1>
 <h3 align="center">A creative and recursive designer and full stack developer junior from Colombia, now living in Spain(Málaga)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscar-coderookie&label=Profile%20views&color=0e75b6&style=flat" alt="oscar-coderookie" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oscar-coderookie&label=Profile%20views&color=0e75b6&style=flat" alt="oscar-coderookie" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscar-coderookie" alt="oscar-coderookie" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscar-coderookie" alt="oscar-coderookie" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Stars Management S.A**
 
-- 🌱 I’m currently learning **React, Angular, Nodejs, PHP, Javascript**
+- 🌱 I’m currently working **React, Angular, Nodejs, Javascript**
 
 - 👯 I’m looking to collaborate on **Develop adn creative projects**
 
